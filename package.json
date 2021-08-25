@@ -1,0 +1,52 @@
+{
+  "name": "parrot",
+  "version": "0.1.1",
+  "private": true,
+  "dependencies": {
+    "@date-io/date-fns": "1.x",
+    "@date-io/dayjs": "1.x",
+    "@date-io/luxon": "1.x",
+    "@date-io/moment": "1.x",
+    "@material-ui/core": "^4.9.13",
+    "@material-ui/pickers": "^3.2.10",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "date-fns": "^2.11.0",
+    "dayjs": "^1.8.23",
+    "firebase": "^7.24.0",
+    "luxon": "^1.22.2",
+    "ra-data-json-server": "^3.17.2",
+    "ra-input-rich-text": "^3.3.1",
+    "react": "^16.13.1",
+    "react-admin": "^3.17.2",
+    "react-admin-date-inputs": "^1.1.4",
+    "react-admin-firebase": "^3.2.24",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1",
+    "redux": "^4.0.5",
+    "sort-by": "^1.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "main": "index.js"
+}
